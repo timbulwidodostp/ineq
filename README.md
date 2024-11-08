@@ -1,6 +1,8 @@
 # ineq
 Measures of inequality Use ineq With (In) R Software
 
+https://www.youtube.com/watch?v=ZgKzO3R5dZY
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
